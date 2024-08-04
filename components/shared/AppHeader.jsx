@@ -183,7 +183,7 @@ function AppHeader() {
         <div className="items-center justify-center hidden p-5 m-0 mt-5 shadow-lg font-general-medium sm:ml-4 sm:mt-3 sm:flex sm:p-0 sm:shadow-none">
           <LinkButton linkname={"/projects"} title={"Projects"} />
           <LinkButton linkname={"/partners"} title={"Partners"} />
-          <LinkButton linkname={"/company"} title={"Our Comapny"} />
+          <LinkButton linkname={"/company"} title={"Our Company"} />
           <LinkButton linkname={"/opportunities"} title={"Opportunities"} />
         </div>
         <div className="items-center justify-center hidden p-5 m-0 mt-5 shadow-lg font-general-medium sm:ml-4 sm:mt-3 sm:flex sm:p-0 sm:shadow-none">
