@@ -191,11 +191,13 @@ function Index() {
                 image={member1}
                 name="Dr.James Hillis"
                 des="Doctorate from Oxford in Medicine and Director of Neurological Digital Clinical Research and Artificial Intelligence Organization at Mass General Brigham"
+                url="https://www.researchgate.net/profile/James-Hillis"
               />
               <ProfileCard 
                 image={member2}
                 name="Dr.Doug Rett"
                 des="Chief of Optometry for the VA hospitals in the Greater Boston area with a staff of over a dozen doctors. One of the nation leads for Telemedicine roll-out throughout New England."
+                url="https://www.healio.com/authors/drett"
               />
             </div>
           </div>
