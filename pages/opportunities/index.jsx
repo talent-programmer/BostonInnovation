@@ -19,7 +19,7 @@ function Index() {
         <motion.section
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
-          transition={{ ease: 'easeInOut', duration: 0.9, delay: 0.2 }}
+          transition={{ ease: 'easeInOut', duration: 0.2 }}
         >
           <div className="container mx-auto mt-10">
             <div className="flex flex-col items-center text-center">
@@ -31,36 +31,6 @@ function Index() {
               >
                 Scan to learn more!
               </button>
-              {/* <button
-                className="
-                  font-sans
-                  font-medium
-                  text-[17px]
-                  text-[#F8F8F8]
-                  leading-[20px]
-                  flex
-                  bg-[#2596BE]
-                  justify-center
-                  items-center
-                  rounded-[20px]
-                  px-[41px]
-                  py-[16px]
-                  gap-[10px]
-                  w-auto
-                  block
-                  text-left
-                  duration-300
-                  shadow-sm
-                  mt-4
-                  sm:hidden
-                  text-md
-                  hover:bg-[#1E7BA7]
-                "
-                aria-label="Book Meeting Button"
-              >
-                Scan to learn more!
-              </button> */}
-              
               <div className="p-5 mt-7 md:w-2/5">
                 <Image src={qrmark} alt="QR Code" />
               </div>

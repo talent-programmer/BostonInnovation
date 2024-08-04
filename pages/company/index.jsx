@@ -41,7 +41,7 @@ function Index() {
         <motion.section
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
-          transition={{ ease: 'easeInOut', duration: 0.9, delay: 0.2 }}
+          transition={{ ease: 'easeInOut', duration: 0.2 }}
           // className='-ml-50'
         >
           <div className='container mx-auto'>
