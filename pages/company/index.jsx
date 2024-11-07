@@ -112,7 +112,7 @@ function Index() {
                 linkedin={"https://www.linkedin.com/in/angelina-nguyen-2a348a279/"}
                 mail={"AngelinaNguyen@bostoninnovations.org"}
                 role={"DIRECTOR OF FINANCE"}
-                name={"Angelian Nguyen"}
+                name={"Angelina Nguyen"}
                 des={"Angelina is a mathematics student at UC Berkeley with a strong background in event coordination and leadership. An Event Coordinator for Hack Club, she organized her own hackathon and additionally won the HackMIT 2024 competition.  "}
               />
               <Profile 
